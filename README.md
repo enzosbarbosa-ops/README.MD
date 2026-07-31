@@ -29,4 +29,4 @@
 ## o que é o chalk
 ### chalk é um pacote que permite que vc personalise a fonte das letras por meio do código
 
-#### os pacotes pode ser acessados através do site npm.com, onde voçê pode acessar vários pacotes
+#### os pacotes podem ser acessados através do site npm.com, onde voçê pode acessar vários pacotes
